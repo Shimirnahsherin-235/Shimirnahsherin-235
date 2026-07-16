@@ -14,15 +14,14 @@
 
 ## ✨ About Me
 
-```python
-shimirnah = {
-    "name"       : "Shimirnah Sherin C",
-    "degree"     : "B.Tech – AI & Data Science (CGPA: 8.5)",
-    "interests"  : ["AI", "Data Analytics", "IoT", "Forex Trading"],
-}
-```
+```text
+📊 Data Analyst by profession.
+📈 Forex Trader by passion.
+🏐 Athlete by discipline.
+🌍 Traveller by curiosity.
+💃 Dancer by heart.
 
----
+```
 
 ## 🛠️ Tech Stack
 
