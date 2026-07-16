@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=SHIMIRNAH%20SHERIN%20C&fontSize=38&fontColor=7A1F3D&color=F5E6E8&animation=fadeIn" />
 </div>
 
----
+
 <!-- Animated Header -->
 <div align="center">
 
