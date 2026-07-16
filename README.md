@@ -1,6 +1,8 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shimirnah+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Just+building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=7A1F3D&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shimirnah+👋;Data+Analyst+in+the+making+📊;Trader+by+passion+📈;Athlete+by+discipline+🏐;Just+building+cool+stuff+🚀" />
+
 </div>
 
 ---
