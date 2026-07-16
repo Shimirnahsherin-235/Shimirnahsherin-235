@@ -65,24 +65,6 @@ shimirnah = {
 | 🐍 Infosys | Data Structures Using Python |
 | 📊 Novitech | Data Analytics Course |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimirnahsherin-235&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimirnahsherin-235&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20B2AA&text_color=ffffff" height="165"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shimirnahsherin-235/Shimirnahsherin-235/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
