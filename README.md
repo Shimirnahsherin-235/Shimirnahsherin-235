@@ -79,11 +79,13 @@
 
 ---
 
-<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0D9488&height=100&section=footer" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shimirnahsherin-235&color=0D9488&style=flat-square&label=Profile+Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,25,26,30"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Shimirnahsherin-235&style=for-the-badge&label=PROFILE+VIEWS&color=8B1E3F"/>
+<br><br>
+
+### 🚀 Just building cool stuff.
+
 </div>
