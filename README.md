@@ -1,10 +1,9 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=32&pause=1200&color=8B1E3F&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Shimirnah+👋;Different+every+day.;Better+always.;Just+building+cool+stuff.🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=32&pause=1200&color=8B1E3F&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Shimirnah;Different+every+day.;Better+always.;Just+building+cool+stuff." alt="Typing SVG"/>
 
 </div>
-
 
 ---
 
