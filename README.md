@@ -28,17 +28,17 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D9488?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-134E4A?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-0D9488?style=for-the-badge&logo=powerbi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-134E4A?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D9488?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-134E4A?style=for-the-badge&logo=pandas&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0D9488?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-134E4A?style=for-the-badge&logo=huggingface&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D9488?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-134E4A?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
