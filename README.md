@@ -9,7 +9,7 @@
 
 <!-- Sparkle Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:134E4A&height=120&section=header&text=SHIMIRNAH%20SHERIN%20C&fontSize=36&fontColor=8B1E3F&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=SHIMIRNAH%20SHERIN%20C&fontSize=40&fontColor=F5E6E8&color=gradient&customColorList=27,28,29,30" />
 </div>
 
 ---
