@@ -1,9 +1,10 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=8B1E3F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shimirnah+👋;Data+Analyst+in+the+making.;Trader+by+passion.;Athlete+by+discipline.;Just+building+cool+stuff.🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=32&pause=1200&color=8B1E3F&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Shimirnah+👋;Different+every+day.;Better+always.;Just+building+cool+stuff.🚀" />
 
 </div>
+
 ---
 
 <!-- Sparkle Banner -->
