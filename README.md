@@ -1,5 +1,5 @@
 <!-- Sparkle Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&text=Hello&height=200)
+
 <!-- Animated Header -->
 <div align="center">
 
