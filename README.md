@@ -1,8 +1,5 @@
 <!-- Sparkle Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1E3F&height=220&text=Shimirnah%20Sherin%20C&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Banner">
-  
-</div>
+
 <!-- Animated Header -->
 <div align="center">
 
