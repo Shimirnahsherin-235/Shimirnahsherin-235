@@ -1,7 +1,17 @@
 <!-- Sparkle Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=200section=header&text=Shimirnah%20Sherin%20C&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=75&descSize=18" /> </div> <div align="center"> ![Python](https://img.shields.io/badge/Python-0D9488?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-134E4A?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-0D9488?style=for-the-badge&logo=powerbi&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-134E4A?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-0D9488?style=for-the-badge&logo=streamlit&logoColor=white) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,20,30&text=Shimirnah%20Sherin%20C&fontSize=42&fontColor=ffffff&animation=twinkling&section=header&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20Data%20Science&descAlignY=72&descSize=18" />
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 <!-- Animated Header -->
