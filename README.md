@@ -39,25 +39,6 @@
 </div>
 
 ---
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shimirnahsherin-235&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shimirnahsherin-235&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimirnahsherin-235&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
