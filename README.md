@@ -1,5 +1,7 @@
 <!-- Sparkle Banner -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2D3142,50:3D2020,100:2D3142&height=220§ion=header&text=SHIMIRNAH%20SHERIN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20Data%20Science%20·%20Trader%20·%20Builder&descAlignY=75&descSize=16&descColor=c8a0a0" /> </div> <div align="center"> <em>"Live your life. It's yours anyway." — Kim Seokjin</em>
 
+</div>
 
 <!-- Animated Header -->
 <div align="center">
