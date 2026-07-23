@@ -1,5 +1,9 @@
 <!-- Sparkle Banner -->
 <div align="center">
+  <img src="shinyyyy.gif" alt="Banner" width="100%">
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&pause=1000&color=C85050&background=2D314200&center=true&vCenter=true&width=700&height=120&lines=SHIMIRNAH+SHERIN+C;AI+%26+Data+Science+Engineer;Trader+%7C+Builder+%7C+Researcher" />
 </div>
 
