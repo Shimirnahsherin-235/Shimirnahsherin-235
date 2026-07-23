@@ -1,5 +1,5 @@
 <!-- Sparkle Banner -->
-<img width="1440" height="710" alt="image" src="https://github.com/user-attachments/assets/096fe086-1e3f-4fd1-9906-53ef4413ae82" />
+
 
 <!-- Animated Header -->
 <div align="center">
